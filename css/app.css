@@ -42,7 +42,7 @@ body {
 
 h2 {
     margin: 0;
-    transform: rotate(-90deg);
+    transform: rotate(-45deg);
     transition: transform 0.5s; 
     text-shadow: 0 0 5px #01579b;
 }
@@ -53,4 +53,8 @@ h2 {
 
 #paris {
     background-color: #d32f2f;
+}
+
+#londres {
+    background-color: #35bd89;
 }
